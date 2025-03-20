@@ -1,3 +1,7 @@
+# Important note
+
+This repository is a fork of [D-Wave's original vm-load-balancing](https://github.com/dwave-examples/vm-load-balancing). The contributors to this fork do not claim ownership or authorship of the original codebase. All credit for the original work belongs to D-Wave Systems and its respective contributors.
+
 # Load Balancing
 
 Virtual machine load balancing is the problem of distributing virtual machines in a way that
